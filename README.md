@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working to improve Zoho CRM's Developer Experience & some personal projects<br>🤝 I’m looking for help with  Typescript, Java-related frameworks<br>🌱 I’m currently learning NextJS, System Design<br>💬 Ask me about Java, Javascript frameworks, and AWS<br>⚡ Fun fact: Mentoring people who want to learn & build applications
+🔭 I’m currently working to improve Zoho CRM's Developer Experience & some personal projects<br>🤝 I’m looking for help with  Typescript, Java-related frameworks<br>🌱 I’m currently learning NextJS, System Design<br>💬 Ask me about Java and Javascript based full-stack applications, VS Code Extension Development, and AWS<br>⚡ Fun fact: Mentoring people who want to learn & build applications
 
 
 ## 🌐 Socials:
